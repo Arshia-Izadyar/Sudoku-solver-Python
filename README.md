@@ -11,13 +11,13 @@ The Sudoku Solver utilizes a depth-first search algorithm, where it places a dig
 ## Installation
 
 
-1)Ensure you have Python installed on your system (version 3 or above).
+1) Ensure you have Python installed on your system (version 3 or above).
 
-2)Download the Sudoku Solver source code from the repository or copy it from this documentation.
+2) Download the Sudoku Solver source code from the repository or copy it from this documentation.
 
-3)install the requirements.txt
+3) install the requirements.txt
 
-      pip install -r requirements.txt
+       pip install -r requirements.txt
       
 4) you can try soliving it youself with running the GUI.py
 
