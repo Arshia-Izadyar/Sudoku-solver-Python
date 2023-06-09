@@ -21,7 +21,7 @@ The Sudoku Solver utilizes a depth-first search algorithm, where it places a dig
       
 4) you can try soliving it youself with running the GUI.py
 
-                   python3 GUI.py
+       python3 GUI.py
 5) or run the main.py to have the soled puzzel in Terminal
       
-                    python3 main.py
+       python3 main.py
