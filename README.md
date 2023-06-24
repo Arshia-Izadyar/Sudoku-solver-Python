@@ -2,7 +2,7 @@
 # Sudoku Solver Documentation
 
 
-##Introduction
+## Introduction
 
 The Sudoku Solver is a Python program that uses recursive programming and backtracking techniques to solve Sudoku puzzles. Sudoku is a logic-based puzzle game in which you must fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids contains all of the digits from 1 to 9.
 
